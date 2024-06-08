@@ -1,27 +1,15 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
 <br/>
 <br/>
 
-## Heyyo, I'm <a href="https://aakarsh.design" target="_blank">Aakarsh</a>!
+## Heyyo, I'm <a href="https://Samaksh.design" target="_blank">Samaksh</a>!
 (Use dark theme to find my socials ;)
 
-<a href="https://linkedin.com/in/samakshtyagi" target="_blank"><img align="left" alt="Samaksh Tyagi | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://instagram.com/samakshty" target="_blank"><img align="left" alt="Samaksh Tyagi | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://x.com/SamakshTyagi_//www.w3.org/html/" target="_blank"><img align="left" alt="Samaksh Tyagi | X" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://linkedin.com/in/samakshtyagi" target="_blank"><img align="left" alt="Samaksh Tyagi | LinkedIn" width="22px" src="Linkedin logo.svg" />
+<a href="https://instagram.com/samakshty" target="_blank"><img align="left" alt="Samaksh Tyagi | Instagram" width="22px" src="Insta (1).svg" />
+<a href="https://x.com/SamakshTyagi_//www.w3.org/html/" target="_blank"><img align="left" alt="Samaksh Tyagi | X" width="22px" src="Twitter logo (1).svg" />
 
 <br />
 <br />
-<br />
-
-### 📕 Latest Blog Post
-
-<!-- BLOG-POST-LIST:START -->
-- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
-- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
-- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
-<!-- BLOG-POST-LIST:END -->
-
 <br/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -50,17 +38,11 @@
 <a href="https://www.linkedin.com/in/samakshtyagi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:samakshty@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/samakshty"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://x.com/SamakshTyagi_//www.w3.org/html/" target="_blank"><img align="left" alt="Samaksh Tyagi | X" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://x.com/SamakshTyagi_/" target="_blank"><img align="left" alt="Samaksh Tyagi | X" width="22px" src="Twitter logo (1).svg" />
 
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-
-
 <br />
 <br />
 
