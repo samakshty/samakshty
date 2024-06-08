@@ -54,5 +54,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=default&show_offline=false&background_color=0e1116&interchange=true&bar_color=009919&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 ---
-
+<!--
 [![Samaksh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+-->
