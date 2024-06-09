@@ -6,7 +6,8 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Heyyo, I'm <a href="https://Samaksh.design" color= "pink" align = "centre" target="_blank">Samaksh</a>
 
 ![version :9.6.24](https://img.shields.io/badge/version-9.6.24-informational&color=d400b4)&nbsp;
-![profile count](https://komarev.com/ghpvc/?username=samakshty&color=red&labelColor=white&color=3000de)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=samakshty&color=red&labelColor=white&color=3000de)
+<!-- ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)&nbsp; -->
 [![GitHub Samaksh Tyagi](https://img.shields.io/github/followers/samakshty?label=follow&style=social)](https://github.com/samakshty)&nbsp;
 <!-- ![build: passing](https://img.shields.io/badge/build-passing-success) -->
 
@@ -17,11 +18,11 @@
 <a href="https://instagram.com/samakshty" target="_blank"><img align="centre" alt="Samaksh Tyagi | Instagram" width="22px" src="Insta (1).svg"/>
 <a href="https://x.com/SamakshTyagi_/" target="_blank"><img align="centre" alt="Samaksh Tyagi | X" width="22px" src="Twitter logo (1).svg"/> 
 
-💡 &nbsp; I'm a software developer and researcher in Delhi, working on production of multiple applications of AI.\
-🎓 &nbsp; I am an engineer in Bennett University (B.Tech, Computer Science and Engineering, Batch of 2027).\
+💡 &nbsp; I'm a student in Delhi, working on the production of multiple applications of AI.\
+🎓 &nbsp; I am an engineer at Bennett University (B.Tech, Computer Science and Engineering, Batch of 2027).\
 🌱 &nbsp; I'm on track for learning more about Artificial Intelligence (particularly NLP and Computer Vision).\
 💻 &nbsp; I'm currently performing research in the field of AI.\
-✍️ &nbsp; In my free time, I make music, surf the net and pursue writing as my hobbies.\
+✍️ &nbsp; In my free time, I make music, surf the net, and pursue writing as my hobbies.\
 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp; You can email me at samakshty@gmail.com. I'll try to respond as soon as possible!
 
@@ -77,10 +78,27 @@
 
   
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alter='Busy Work' align='right' height="180"> -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 [![Samaksh's github stats](https://github-readme-stats.vercel.app/api?username=samakshty&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
   
+<!-- https://github.com/samakshty/samakshty/blob/3c481e57f6f75f6c9585381d5b89889f626dbeda/snake.yml -->
+  
 [![Trophy](https://github-profile-trophy.vercel.app/?username=samakshty&theme=darkhub&no-bg=true&no-frame=true&margin-h=15)](https://github.com/samakshty/github-profile-trophy)
+
 <!-- **Useful Repos:**
 https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#matrix
 https://github.com/Ileriayo/markdown-badges
