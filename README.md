@@ -1,5 +1,7 @@
 <div align="center">
 <!-- img src ="samakshty.vercel.app/experience?username=samakshtyagi"/ --> 
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alter='pacman' width="400">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Heyyo, I'm <a href="https://Samaksh.design" color= "pink" align = "centre" target="_blank">Samaksh</a>!
@@ -25,20 +27,14 @@
 <a href="https://linkedin.com/in/samakshtyagi" target="_blank"><img align="centre" alt="Samaksh Tyagi | LinkedIn" width="22px" src="Linkedin logo.svg"/> 
 <a href="https://instagram.com/samakshty" target="_blank"><img align="centre" alt="Samaksh Tyagi | Instagram" width="22px" src="Insta (1).svg"/>
 <a href="https://x.com/SamakshTyagi_/" target="_blank"><img align="centre" alt="Samaksh Tyagi | X" width="22px" src="Twitter logo (1).svg"/> 
-<div/>
-<br/>
 
 ### 🎧 &nbsp; Currently listening to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true&rank=S,AAA)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true&rank=S,AAA)](https://github.com/kittinan/spotify-github-profile)<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" alter='Molecules dance' width="100">
 
-<div align="center">
+
 
 ---
-### 🛠 &nbsp; Tech Stacks I use
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alter= "Skills" width="30" height="20"> &nbsp; Tech Stacks I use: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -61,7 +57,13 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 <br/>
 ---
-### 🧑🏻‍💻 &nbsp; Softwares I use
+### 🧑🏻‍💻 &nbsp; Softwares I use:
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+  
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -74,7 +76,7 @@
 <br/>
 ---
 
-### 📫 &nbsp; How to reach me
+### 📫 &nbsp; How to reach me? <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
 
 
 <a href="https://www.linkedin.com/in/samakshtyagi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -88,6 +90,9 @@
 <!--
 [![Samaksh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<div align="center">
+  
 [![Samaksh's github stats](https://github-readme-stats.vercel.app/api?username=samakshty&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=samakshty&theme=darkhub&no-bg=true&no-frame=true&margin-h=15)](https://github.com/samakshty/github-profile-trophy)
@@ -96,3 +101,6 @@ https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#matrix
 https://github.com/Ileriayo/markdown-badges
 -->
 
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alter='Busy Work' width="500">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alter='fading line' width="700">
