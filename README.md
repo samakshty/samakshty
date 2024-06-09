@@ -6,8 +6,7 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Heyyo, I'm <a href="https://Samaksh.design" color= "pink" align = "centre" target="_blank">Samaksh</a>
 
 ![version :9.6.24](https://img.shields.io/badge/version-9.6.24-informational&color=d400b4)&nbsp;
-![profile count](https://komarev.com/ghpvc/?username=samakshty&color=red&labelColor=white&color=3000de)
-<!-- ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)&nbsp; -->
+![profile count](https://komarev.com/ghpvc/?username=samakshty&color=red&labelColor=white&color=3000de)&nbsp;
 [![GitHub Samaksh Tyagi](https://img.shields.io/github/followers/samakshty?label=follow&style=social)](https://github.com/samakshty)&nbsp;
 <!-- ![build: passing](https://img.shields.io/badge/build-passing-success) -->
 
@@ -27,12 +26,13 @@
 ✉️ &nbsp; You can email me at samakshty@gmail.com. I'll try to respond as soon as possible!
 
 ---
-
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" alter='Molecules dance' height="25"> &nbsp; Currently listening to:
+<div align="center">  
+  
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" alter='Molecules dance' height="25"> &nbsp;Currently listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=default&show_offline=false&background_color=080707&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alter= "Skills" width="30" height="20"> &nbsp; Tech Stacks I use: 
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alter= "Skills" width="30" height="20"> &nbsp;Tech Stacks I use
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -58,7 +58,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alter='banner tech stacks'/>
 <br/>
 
-###  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" height="22" width='22'> &nbsp; Softwares I use:
+###  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" height="22" width='22'> &nbsp;Softwares I use
   
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -78,6 +78,10 @@
 
   
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alter='Busy Work' align='right' height="180"> -->
+
+  
+[![Samaksh's github stats](https://github-readme-stats.vercel.app/api?username=samakshty&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -93,7 +97,6 @@
   />
 </picture>
 
-[![Samaksh's github stats](https://github-readme-stats.vercel.app/api?username=samakshty&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
   
 <!-- https://github.com/samakshty/samakshty/blob/3c481e57f6f75f6c9585381d5b89889f626dbeda/snake.yml -->
   
@@ -105,9 +108,9 @@ https://github.com/Ileriayo/markdown-badges
 -->
 
 ---
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" height="40"> &nbsp; How to reach me?
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" height="40">&nbsp;How to reach me
 
-<div align="center">  
+
 <a href="https://www.linkedin.com/in/samakshtyagi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:sama
 kshty@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a> &nbsp;
