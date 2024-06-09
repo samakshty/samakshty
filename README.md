@@ -1,30 +1,31 @@
 <!-- img src ="samakshty.vercel.app/experience?username=samakshtyagi"/ --> 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Heyyo, I'm <a href="https://Samaksh.design" color= "pink" align = "centre" target="_blank">Samaksh</a>!
 
-
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+![version :9.6.24](https://img.shields.io/badge/version-9.6.24-informational&color=d400b4)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=samakshty&color=red&labelColor=white&color=3000de)&nbsp;
+[![GitHub Samaksh Tyagi](https://img.shields.io/github/followers/samakshty?label=follow&style=social)](https://github.com/samakshty)&nbsp;
+<!-- ![build: passing](https://img.shields.io/badge/build-passing-success) -->
 
 ###  &nbsp; About Me
 
 💡 &nbsp; I'm a software developer and researcher in Delhi, working on production of multiple applications of AI.\
-🎓&nbsp;I am an engineer in Bennett University (B.Tech, Computer Science and Engineering, Batch of 2027).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence (particularly NLP and Computer Vision).\
-💻 &nbsp;I'm currently performing research in the field of AI.\
-✍️ &nbsp;In my free time, I make music, surf the net and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at samakshty@gmail.com. I'll try to respond as soon as possible!\
-
-## Heyyo, I'm <a href="https://Samaksh.design" align = "centre" target="_blank">Samaksh</a>!
+🎓 &nbsp; I am an engineer in Bennett University (B.Tech, Computer Science and Engineering, Batch of 2027).\
+🌱 &nbsp; I'm on track for learning more about Artificial Intelligence (particularly NLP and Computer Vision).\
+💻 &nbsp; I'm currently performing research in the field of AI.\
+✍️ &nbsp; In my free time, I make music, surf the net and pursue writing as my hobbies.\
+💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp; You can email me at samakshty@gmail.com. I'll try to respond as soon as possible!
 
 <a href="https://linkedin.com/in/samakshtyagi" target="_blank"><img align="left" alt="Samaksh Tyagi | LinkedIn" width="22px" src="Linkedin logo.svg"/> 
 <a href="https://instagram.com/samakshty" target="_blank"><img align="left" alt="Samaksh Tyagi | Instagram" width="22px" src="Insta (1).svg"/>
 <a href="https://x.com/SamakshTyagi_/" target="_blank"><img align="left" alt="Samaksh Tyagi | X" width="22px" src="Twitter logo (1).svg"/> 
 <br/>
+### 🎧 &nbsp; Currently listening to:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true&rank=S,AAA)](https://github.com/kittinan/spotify-github-profile)
+
+---
 ### 🛠 &nbsp; Tech Stacks I use:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -34,6 +35,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -68,12 +70,6 @@
 <a href="mailto:samakshty@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a> &nbsp;
 <a href="https://instagram.com/samakshty"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white"/></a> &nbsp;
 <a href="https://x.com/SamakshTyagi_/" ><img alt="Samaksh Tyagi | Twitter" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/> <a/>
-<br/>
-
----
-
-### 🎧 &nbsp; Currently listening to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true&rank=S,AAA)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 
 ---
