@@ -1,7 +1,6 @@
+<div align="center">  
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alter='pacman' width="500">
 <div align="center">
-<!-- img src ="samakshty.vercel.app/experience?username=samakshtyagi"/ --> 
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alter='pacman' width="400">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Heyyo, I'm <a href="https://Samaksh.design" color= "pink" align = "centre" target="_blank">Samaksh</a>!
@@ -14,7 +13,7 @@
 
 <div align="left">
   
-###  &nbsp; About Me
+###  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" alter='me pixelated' width="70">&nbsp; About Me
 
 💡 &nbsp; I'm a software developer and researcher in Delhi, working on production of multiple applications of AI.\
 🎓 &nbsp; I am an engineer in Bennett University (B.Tech, Computer Science and Engineering, Batch of 2027).\
@@ -56,13 +55,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 <br/>
----
-### 🧑🏻‍💻 &nbsp; Softwares I use:
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alter='banner tech stacks'/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+---
+### <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" height="20"> &nbsp; Softwares I use:
   
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
@@ -76,7 +72,7 @@
 <br/>
 ---
 
-### 📫 &nbsp; How to reach me? <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" height="20"> &nbsp; How to reach me?
 
 
 <a href="https://www.linkedin.com/in/samakshtyagi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -91,16 +87,17 @@
 [![Samaksh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<div align="center">
   
-[![Samaksh's github stats](https://github-readme-stats.vercel.app/api?username=samakshty&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alter='Busy Work' align='right' height="180"> -->
 
+[![Samaksh's github stats](https://github-readme-stats.vercel.app/api?username=samakshty&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+  
 [![Trophy](https://github-profile-trophy.vercel.app/?username=samakshty&theme=darkhub&no-bg=true&no-frame=true&margin-h=15)](https://github.com/samakshty/github-profile-trophy)
 <!-- **Useful Repos:**
 https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#matrix
 https://github.com/Ileriayo/markdown-badges
 -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alter='Busy Work' width="500">
-
+<br>
+<div align="center">   
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alter='fading line' width="700">
