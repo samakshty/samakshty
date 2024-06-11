@@ -79,9 +79,9 @@
   
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alter='Busy Work' align='right' height="180"> -->
 
-  
+<!-- _COMMENTING OUT THIS PART, WILL FIX IT IN NEXT COMMIT_
 [![Samaksh's github stats](https://github-readme-stats.vercel.app/api?username=samakshty&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
