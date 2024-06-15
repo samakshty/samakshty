@@ -26,11 +26,6 @@
 ✉️ &nbsp; You can email me at samakshty@gmail.com. I'll try to respond as soon as possible!
 
 ---
-<div align="center">  
-  
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" alter='Molecules dance' height="25"> &nbsp;Currently listening to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=default&show_offline=false&background_color=080707&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
----
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alter= "Skills" width="30" height="20"> &nbsp;Tech Stacks I use
 
@@ -72,28 +67,24 @@
 <br/>
 
 ---
-<!--
-[![Samaksh's github stats](https://github-readme-stats.vercel.app/api?username=samakshty&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/samakshty/github-readme-stats)
--->
-
-  
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alter='Busy Work' align='right' height="180"> -->
 
 
 <!-- ![Samaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&theme=dark)
 USE THIS OR BOTTOM EXPANDED SYNTAX -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=samakshty&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+</picture> 
+<br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samakshty&layout=compact&theme=dark)
 
 <!-- TO BE PERSONALIZED IN NEXT COMMIT -->
 
@@ -121,8 +112,15 @@ USE THIS OR BOTTOM EXPANDED SYNTAX -->
 https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#matrix
 https://github.com/Ileriayo/markdown-badges
 -->
+---
+
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" alter='Molecules dance' height="25"> &nbsp;Listening to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=default&show_offline=false&background_color=080707&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alter='Busy Work' align='right' width="400"> 
+
 
 ---
+<div align="center">  
+  
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" height="40">&nbsp;How to reach me
 
 
