@@ -114,9 +114,9 @@ https://github.com/Ileriayo/markdown-badges
 -->
 ---
 
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" alter='Molecules dance' height="25"> &nbsp;Listening to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=default&show_offline=false&background_color=080707&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alter='Busy Work' align='right' width="400"> 
-
+##### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" alter='Molecules dance' height="25"> &nbsp;Listening to 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=080707&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="50%">
 
 ---
 <div align="center">  
