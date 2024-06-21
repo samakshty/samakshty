@@ -71,6 +71,8 @@
 
 <!-- ![Samaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&theme=dark)
 USE THIS OR BOTTOM EXPANDED SYNTAX -->
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samakshty&theme=dark&show_icons=true&locale=en&layout=compact" alt="samakshty"/> <p/>
+  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
@@ -84,9 +86,13 @@ USE THIS OR BOTTOM EXPANDED SYNTAX -->
 </picture> 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samakshty&layout=compact&theme=dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samakshty&theme=dark" alt="samakshty" /></p>
+
+    
+[![Trophy](https://github-profile-trophy.vercel.app/?username=samakshty&theme=darkhub&no-bg=true&no-frame=true&margin-h=15)](https://github.com/samakshty/github-profile-trophy)
 
 <!-- TO BE PERSONALIZED IN NEXT COMMIT -->
+<!-- https://github.com/samakshty/samakshty/blob/3c481e57f6f75f6c9585381d5b89889f626dbeda/snake.yml -->
 
 <picture>
   <source
@@ -103,11 +109,6 @@ USE THIS OR BOTTOM EXPANDED SYNTAX -->
   />
 </picture>
 
-  
-<!-- https://github.com/samakshty/samakshty/blob/3c481e57f6f75f6c9585381d5b89889f626dbeda/snake.yml -->
-  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=samakshty&theme=darkhub&no-bg=true&no-frame=true&margin-h=15)](https://github.com/samakshty/github-profile-trophy)
-
 <!-- **Useful Repos:**
 https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#matrix
 https://github.com/Ileriayo/markdown-badges
@@ -115,8 +116,7 @@ https://github.com/Ileriayo/markdown-badges
 ---
 
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" alter='Molecules dance' height="25"> &nbsp;Listening to 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=compact&show_offline=false&background_color=080707&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align = 'right' width="50%">
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=compact&show_offline=false&background_color=080707&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align = 'right' width="50%">
 
 <div align="center">  
 
