@@ -83,7 +83,7 @@ USE THIS OR BOTTOM EXPANDED SYNTAX -->
     srcset="https://github-readme-stats.vercel.app/api?username=samakshty&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&locale=en&layout=compact" />
 </picture> 
 <br/>
 
