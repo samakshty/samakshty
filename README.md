@@ -85,6 +85,8 @@ USE THIS OR BOTTOM EXPANDED SYNTAX -->
   />
   <img src="https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&locale=en&layout=compact" />
 </picture> 
+
+<br/>
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samakshty&theme=dark" alt="samakshty" /></p>
