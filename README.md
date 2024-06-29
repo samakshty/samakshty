@@ -64,12 +64,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 <br/>
-<br/>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" alter='fading line' width="100%">
 
+<br/>
+<br/>
 
 <!-- ![Samaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&theme=dark)
 USE THIS OR BOTTOM EXPANDED SYNTAX -->
