@@ -1,11 +1,9 @@
-<!-- <div align="center">  
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alter='pacman' width="100%"> -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Heyyo, I'm <a href="https://Samaksh.design" color= "green" align = "centre" target="_blank" onclick= "return false" >Samaksh</a>
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Heyyo, I'm <a href="https://Samaksh.design" color= "purple" align = "centre" target="_blank" onclick="return false" >Samaksh</a>
 
-![version :9.6.24](https://img.shields.io/badge/version-9.6.24-informational&color=d400b4)&nbsp;
+![version :29.6.24](https://img.shields.io/badge/version-29.6.24-informational&color=d400b4)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=samakshty&color=red&labelColor=white&color=3000de)&nbsp;
 [![GitHub Samaksh Tyagi](https://img.shields.io/github/followers/samakshty?label=follow&style=social)](https://github.com/samakshty)&nbsp;
 <!-- ![build: passing](https://img.shields.io/badge/build-passing-success) -->
@@ -123,7 +121,7 @@ https://github.com/Ileriayo/markdown-badges
 
 
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" alter='Molecules dance' height="25"> &nbsp;Listening to 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=compact&show_offline=false&background_color=080707&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align = 'right' width="50%">
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=compact&show_offline=false&background_color=080707&interchange=true&bar_color=53b14f&bar_color_cover=true) <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align = 'right' width="50%">
 
 
 
