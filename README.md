@@ -59,6 +59,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
@@ -95,7 +97,7 @@ USE THIS OR BOTTOM EXPANDED SYNTAX -->
 [![Trophy](https://github-profile-trophy.vercel.app/?username=samakshty&theme=darkhub&no-bg=true&no-frame=true&margin-h=15)](https://github.com/samakshty/github-profile-trophy)
 
 <!-- TO BE PERSONALIZED IN NEXT COMMIT -->
-<!-- https://github.com/samakshty/samakshty/blob/3c481e57f6f75f6c9585381d5b89889f626dbeda/snake.yml -->
+<!-- https://github.com/samakshty/samakshty/blob/3c481e57f6f75f6c9585381d5b89889f626dbeda/snake.yml
 
 <picture>
   <source
@@ -111,7 +113,7 @@ USE THIS OR BOTTOM EXPANDED SYNTAX -->
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+-->
 <!-- **Useful Repos:**
 https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#matrix
 https://github.com/Ileriayo/markdown-badges
