@@ -121,7 +121,7 @@ https://github.com/Ileriayo/markdown-badges
 
 
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" alter='Molecules dance' height="25"> &nbsp;Listening to 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=compact&show_offline=false&background_color=080707&interchange=true&bar_color=53b14f&bar_color_cover=true) <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align = 'right' width="50%">
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lt7yyx0km84sp7gbsv62jgwb6&cover_image=true&theme=compact&show_offline=false&background_color=080707&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/lt7yyx0km84sp7gbsv62jgwb6?trackId=1zIs1HDH82xZfK0McXAHAP) <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align = 'right' width="50%">
 
 
 
