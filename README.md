@@ -73,24 +73,24 @@
 <!-- ![Samaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&theme=dark)
 USE THIS OR BOTTOM EXPANDED SYNTAX -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samakshty&theme=dark&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samakshty&theme=dark&show_icons=true&locale=en&layout=compact&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&rank_icon=github&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=samakshty&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=samakshty&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&locale=en&layout=compact&rank_icon=github" />
 </picture> 
 
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samakshty&theme=dark" alt="samakshty" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samakshty&theme=dark& rank_icon=github" alt="samakshty" /></p>
 
     
 [![Trophy](https://github-profile-trophy.vercel.app/?username=samakshty&theme=darkhub&no-bg=true&no-frame=true&margin-h=15)](https://github.com/samakshty/github-profile-trophy)
