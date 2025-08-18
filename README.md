@@ -5,7 +5,7 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Heyyo, I'm <a href="https://Samaksh.design" color= "purple" align="center" target="_blank" onclick="return false">Samaksh</a>
 
 <!-- Badges and Profile Links -->
-![version :18.8.25](https://img.shields.io/badge/version-29.6.24-informational&color=d400b4)&nbsp;
+![version :18.8.25](https://img.shields.io/badge/version-18.08.25-informational&color=d400b4)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=samakshty&color=red&labelColor=white&color=3000de)&nbsp;
 [![GitHub Samaksh Tyagi](https://img.shields.io/github/followers/samakshty?label=follow&style=social)](https://github.com/samakshty)&nbsp;
 
