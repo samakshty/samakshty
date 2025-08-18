@@ -21,7 +21,7 @@
 👨‍💻 &nbsp; **President – Artificial Intelligence Society (AIS)** | **General Secretary – ACM Student Chapter** \
 🎓 &nbsp; B.Tech CSE (Artificial Intelligence Specialization), Bennett University, Batch of 2027 \
 ⚡ &nbsp; Passionate about **AI applications** in NLP, Generative AI, Computer Vision & Reinforcement Learning \
-📂 &nbsp; Notable work: [KrishiMitra](https://github.com/samakshty/krishimitra) (SIH ’24), [InSocial](https://github.com/samakshty/InSocial), and [AIS GitHub](https://github.com/AIS-Bennett) for workshops & projects \
+📂 &nbsp; Notable work: [KrishiMitra](https://github.com/samakshty/krishimitra) (SIH ’24), [InSocial](https://github.com/samakshty/InSocial), and [AIS GitHub](https://github.com/Bennettai) for workshops & projects \
 🌱 &nbsp; Currently exploring **Large Language Models, AI Ethics, and applied ML for real-world deployment** \
 🚀 &nbsp; Experienced in building technical pipelines, mentoring teams, and leading events like **Hack Auction (ACM Infuturum)** and **AI Hunt (AIS)** \
 🎶 &nbsp; Outside of tech: music production, writing, and creative design \
