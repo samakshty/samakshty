@@ -25,7 +25,9 @@
 🌱 &nbsp; Currently exploring **Large Language Models, AI Ethics, and applied ML for real-world deployment** \
 🚀 &nbsp; Experienced in building technical pipelines, mentoring teams, and leading events like **Hack Auction (ACM Infuturum)** and **AI Hunt (AIS)** \
 🎶 &nbsp; Outside of tech: music production, writing, and creative design \
-✉️ &nbsp; Reach me at **samakshty@gmail.com** or via my socials: [Linktree](https://linktr.ee/samakshty) 
+✉️ &nbsp; Reach me at **samakshty@gmail.com** or via my socials: [Linktree](https://linktr.ee/samakshty) \
+🔗 &nbsp; Explore more of my AIS work here: [AIS Linktree](https://linktr.ee/ais.bennett) *(includes AIS Instagram, WhatsApp, and Website)* 
+
 
 
 <!-- Divider -->
