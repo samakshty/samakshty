@@ -18,13 +18,15 @@
 <a href="https://instagram.com/samakshty" target="_blank"><img align="center" alt="Samaksh Tyagi | Instagram" width="22px" src="Insta (1).svg"/></a>
 <a href="https://x.com/SamakshTyagi_/" target="_blank"><img align="center" alt="Samaksh Tyagi | X" width="22px" src="Twitter logo (1).svg"/></a>
 
-💡 &nbsp; I'm a student in Delhi, working on the production of multiple applications of AI.\
-🎓 &nbsp; I am an engineer at Bennett University (B.Tech, Computer Science and Engineering, Batch of 2027).\
-🌱 &nbsp; I'm on track for learning more about Artificial Intelligence (particularly NLP and Computer Vision).\
-💻 &nbsp; I'm currently performing research in the field of AI.\
-✍️ &nbsp; In my free time, I make music, surf the net, and pursue writing as my hobbies.\
-💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp; You can email me at samakshty@gmail.com. I'll try to respond as soon as possible!
+👨‍💻 &nbsp; **President – Artificial Intelligence Society (AIS)** | **General Secretary – ACM Student Chapter** \
+🎓 &nbsp; B.Tech CSE (Artificial Intelligence Specialization), Bennett University, Batch of 2027 \
+⚡ &nbsp; Passionate about **AI applications** in NLP, Generative AI, Computer Vision & Reinforcement Learning \
+📂 &nbsp; Notable work: [KrishiMitra](https://github.com/samakshty/krishimitra) (SIH ’24), [InSocial](https://github.com/samakshty/InSocial), and [AIS GitHub](https://github.com/AIS-Bennett) for workshops & projects \
+🌱 &nbsp; Currently exploring **Large Language Models, AI Ethics, and applied ML for real-world deployment** \
+🚀 &nbsp; Experienced in building technical pipelines, mentoring teams, and leading events like **Hack Auction (ACM Infuturum)** and **AI Hunt (AIS)** \
+🎶 &nbsp; Outside of tech: music production, writing, and creative design \
+✉️ &nbsp; Reach me at **samakshty@gmail.com** or via my socials: [Linktree](https://linktr.ee/samakshty) 
+
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" alt='fading line' width="100%">
